@@ -1,4 +1,4 @@
-# Transformer-une-maquette-en-site-web-avec-HTML-CSS
+# Transformer une maquette en site web avec HTML/CSS
 
 Pour lancer le projet vous avez seulement besoin de télécharger les ressources 
 
